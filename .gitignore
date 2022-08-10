@@ -1,0 +1,6 @@
+master/.vagrant
+worker1/.vagrant
+worker2/.vagrant
+dashboard/certs/*.crt
+dashboard/certs/*.csr
+dashboard/certs/*.key
